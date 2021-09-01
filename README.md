@@ -1,2 +1,2 @@
 # test
-The second line writtne in the github.com
+The second line written in the github.com
